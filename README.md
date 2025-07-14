@@ -65,6 +65,8 @@ cd Travellour
 # 2. Run the main file
 python main.py
 
+---
+
 ### 👤 Author
 
 **Ayushman Behera**  
